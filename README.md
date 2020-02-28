@@ -17,8 +17,7 @@ https://start.spring.io/ is used to initialize a MVC Spring-Boot project.
   - Listing movies of selected category on right side of web page
   - Displaying the details of selected movie
 
-### Pages
-##### Main Page
+## Pages
 - List of Movie Categories
 [http://localhost:8080/](http://localhost:8080/)
 - List of movie items
